@@ -12,8 +12,5 @@
             "*://www.flickr.com/*"
         ],
         "js": ["flickr.js"]
-    } ],
-    "background": {
-        "scripts": ["background.js"]
-    }
+    } ]
 }
