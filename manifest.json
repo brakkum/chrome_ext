@@ -5,8 +5,7 @@
     "version": "1.0",
     "author": "Daniel Brakke",
     "permissions": [
-        "tabs",
-        "activeTab"
+        "tabs"
     ],
     "content_scripts": [ {
         "matches" : [
