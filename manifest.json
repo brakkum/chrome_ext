@@ -12,8 +12,5 @@
             "*://www.flickr.com/*"
         ],
         "js": ["flickr.js"]
-    } ],
-    "icons": {
-        "128": "128.png"
-    }
+    } ]
 }
